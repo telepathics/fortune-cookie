@@ -10,8 +10,14 @@
 		<h1>Fortune Cookie</h1>
 		<p>click the cookie to get your fortune!</p>
 	</header>
-	<img onclick="newFortune();" src="./cookie.png" alt="fortune cookie">
-	<p id="fortune">Today it's up to you to create the peacefulness you long for.</p>
+	<img id="cookie" src="./cookie-drawn.png" alt="fortune cookie">
+	<p id="fortune"></p>
+	<img id="trash" src="./trash-empty.png" alt="trashcan">
+	<div id="oldfortunes">
+		<div id="exit-trash"><img src="./exit.png" alt="exit"></div>
+		<h2>Your Old Fortunes</h2>
+		<button id="empty-trash">empty trash</button>
+	</div>
 <script src="./script.js"></script>
 </body>
 </html>
