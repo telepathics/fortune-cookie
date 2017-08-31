@@ -8,6 +8,6 @@
 - [x] Events: use events, such as onclick, to make the application functional and interactive.
 - [x] Randomness: integrate an element of randomness into the application, because randomness is funness.
 - [x] Data: integrate some representation of data into the application, using JavaScript arrays and objects to store it.
-- [ ] Ajax: use the Fetch API  to retrieve data from a server and represent it within the application.
+- [x] Ajax: use the Fetch API to retrieve data from a server and represent it within the application.
 - [x] Your application should exceed the complexity of the class example, both functionally and visually, and your application should differ significantly from the class example (a Magic 8-Ball).
 - [x] Make your application look professional and presentable. Use valid HTML and CSS to structure and style your application.
