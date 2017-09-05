@@ -1,7 +1,5 @@
 # Fortune Cookie
 
-## Requirements
-
 - [x] DOM querying: query elements from the DOM as necessary to build a functioning application.
 - [x] DOM manipulation: modify DOM elements as necessary to evolve both the content and style of page elements.
 - [x] DOM insertion: create new DOM elements and insert them into the DOM to generate new page content.
